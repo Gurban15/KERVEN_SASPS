@@ -1,0 +1,209 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KERVEN\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Parent"
+msgstr "Părinte"
+
+msgid "Name (RO)"
+msgstr "Nume (RO)"
+
+msgid "Name (EN)"
+msgstr "Nume (EN)"
+
+msgid "Icon"
+msgstr "Pictogramă"
+
+msgid "Icon name (top categories only), e.g. phone, laptop, tv"
+msgstr "Nume pictogramă (doar categorii principale), ex: phone, laptop, tv"
+
+msgid "Sort order"
+msgstr "Ordine"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Price (Lei)"
+msgstr "Preț (Lei)"
+
+msgid "Discount (%)"
+msgstr "Reducere (%)"
+
+msgid "Rating"
+msgstr "Notă"
+
+msgid "Reviews"
+msgstr "Recenzii"
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Product"
+msgstr "Produs"
+
+msgid "Products"
+msgstr "Produse"
+
+msgid "Final price"
+msgstr "Preț final"
+
+msgid "Title (RO)"
+msgstr "Titlu (RO)"
+
+msgid "Title (EN)"
+msgstr "Titlu (EN)"
+
+msgid "Pill (RO)"
+msgstr "Etichetă (RO)"
+
+msgid "Pill (EN)"
+msgstr "Etichetă (EN)"
+
+msgid "Button (RO)"
+msgstr "Buton (RO)"
+
+msgid "Button (EN)"
+msgstr "Buton (EN)"
+
+msgid "CSS gradient"
+msgstr "Gradient CSS"
+
+msgid "Pill color (bg)"
+msgstr "Culoare etichetă (fundal)"
+
+msgid "Pill color (text)"
+msgstr "Culoare etichetă (text)"
+
+msgid "Product image (PNG)"
+msgstr "Imagine produs (PNG)"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Banner"
+msgstr "Banner"
+
+msgid "Banners (slider)"
+msgstr "Bannere (slider)"
+
+msgid "New"
+msgstr "Nouă"
+
+msgid "Paid"
+msgstr "Plătită"
+
+msgid "Shipped"
+msgstr "Expediată"
+
+msgid "Delivered"
+msgstr "Livrată"
+
+msgid "Cancelled"
+msgstr "Anulată"
+
+msgid "Customer name"
+msgstr "Nume client"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Address"
+msgstr "Adresă"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "Order"
+msgstr "Comandă"
+
+msgid "Orders"
+msgstr "Comenzi"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Price"
+msgstr "Preț"
+
+msgid "Quantity"
+msgstr "Cantitate"
+
+msgid "Order item"
+msgstr "Produs comandă"
+
+msgid "Order items"
+msgstr "Produse comandă"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Catalog"
+msgstr "Catalog"
+
+msgid "Romanian"
+msgstr "Română"
+
+msgid "English"
+msgstr "Engleză"
+
+msgid "Turkmen"
+msgstr "Turkmenă"
+
+msgid "Administration"
+msgstr "Administrare"
+
+msgid "Welcome,"
+msgstr "Bun venit,"
+
+msgid "View site"
+msgstr "Vizualizare site"
+
+msgid "Change password"
+msgstr "Schimbă parola"
+
+msgid "Log out"
+msgstr "Deconectează-te"
+
+msgid "Recent actions"
+msgstr "Acțiuni recente"
+
+msgid "My actions"
+msgstr "Acțiunile mele"
+
+msgid "None available"
+msgstr "Niciuna"
+
+msgid "Add"
+msgstr "Adaugă"
+
+msgid "Save"
+msgstr "Salvează"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "Home"
+msgstr "Acasă"
+
+msgid "Search"
+msgstr "Caută"
+
+msgid "Filter"
+msgstr "Filtru"
+
+msgid "Action:"
+msgstr "Acțiune:"
+
+msgid "Go"
+msgstr "Start"

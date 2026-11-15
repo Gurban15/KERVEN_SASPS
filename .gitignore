@@ -1,0 +1,13 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+# secrets and local data
+.env
+db.sqlite3
+# Mac
+.DS_Store
+# media: keep product photos, skip everything else
+backend/media/*
+!backend/media/products/

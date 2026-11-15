@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Categorie · KERVEN</title>
+<link rel="icon" href="assets/icons/kerven-cart.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="category">
+<div id="appHeader"></div>
+<main class="wrap listing">
+  <div class="list-head"><h1 id="listTitle"></h1><span id="listCount" class="list-count"></span></div>
+  <div class="grid" id="grid"></div>
+</main>
+<footer class="ftr"><p>© <span id="year"></span> KERVEN · Marketplace demo</p></footer>
+<script src="js/icons.js"></script>
+<script src="js/categories.js"></script>
+<script src="js/products.js"></script>
+<script src="js/photos.js"></script>
+<script src="js/store.js"></script>
+<script src="js/data.js"></script>
+<script src="js/shell.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/listing.js"></script>
+<script>document.getElementById("year").textContent=new Date().getFullYear();</script>
+</body></html>

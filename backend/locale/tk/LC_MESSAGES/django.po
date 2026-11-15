@@ -1,0 +1,209 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KERVEN\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Parent"
+msgstr "Ýokarky kategoriýa"
+
+msgid "Name (RO)"
+msgstr "Ady (RO)"
+
+msgid "Name (EN)"
+msgstr "Ady (EN)"
+
+msgid "Icon"
+msgstr "Ikonka"
+
+msgid "Icon name (top categories only), e.g. phone, laptop, tv"
+msgstr "Ikonka ady (diňe esasy kategoriýalar), mysal: phone, laptop, tv"
+
+msgid "Sort order"
+msgstr "Tertip"
+
+msgid "Category"
+msgstr "Kategoriýa"
+
+msgid "Categories"
+msgstr "Kategoriýalar"
+
+msgid "Image"
+msgstr "Surat"
+
+msgid "Price (Lei)"
+msgstr "Baha (Lei)"
+
+msgid "Discount (%)"
+msgstr "Arzanladyş (%)"
+
+msgid "Rating"
+msgstr "Reýting"
+
+msgid "Reviews"
+msgstr "Synlar"
+
+msgid "Active"
+msgstr "Işjeň"
+
+msgid "Product"
+msgstr "Haryt"
+
+msgid "Products"
+msgstr "Harytlar"
+
+msgid "Final price"
+msgstr "Soňky baha"
+
+msgid "Title (RO)"
+msgstr "Sözbaşy (RO)"
+
+msgid "Title (EN)"
+msgstr "Sözbaşy (EN)"
+
+msgid "Pill (RO)"
+msgstr "Bellik (RO)"
+
+msgid "Pill (EN)"
+msgstr "Bellik (EN)"
+
+msgid "Button (RO)"
+msgstr "Düwme (RO)"
+
+msgid "Button (EN)"
+msgstr "Düwme (EN)"
+
+msgid "CSS gradient"
+msgstr "CSS gradient"
+
+msgid "Pill color (bg)"
+msgstr "Bellik reňki (fon)"
+
+msgid "Pill color (text)"
+msgstr "Bellik reňki (tekst)"
+
+msgid "Product image (PNG)"
+msgstr "Önüm suraty (PNG)"
+
+msgid "Link"
+msgstr "Salgy"
+
+msgid "Banner"
+msgstr "Banner"
+
+msgid "Banners (slider)"
+msgstr "Bannerler (slider)"
+
+msgid "New"
+msgstr "Täze"
+
+msgid "Paid"
+msgstr "Tölenen"
+
+msgid "Shipped"
+msgstr "Ugradyldy"
+
+msgid "Delivered"
+msgstr "Gowşuryldy"
+
+msgid "Cancelled"
+msgstr "Ýatyryldy"
+
+msgid "Customer name"
+msgstr "Müşderi ady"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Address"
+msgstr "Salgy"
+
+msgid "Status"
+msgstr "Ýagdaý"
+
+msgid "Order"
+msgstr "Sargyt"
+
+msgid "Orders"
+msgstr "Sargytlar"
+
+msgid "Name"
+msgstr "Ady"
+
+msgid "Price"
+msgstr "Baha"
+
+msgid "Quantity"
+msgstr "Mukdar"
+
+msgid "Order item"
+msgstr "Sargyt elementi"
+
+msgid "Order items"
+msgstr "Sargyt elementleri"
+
+msgid "Total"
+msgstr "Jemi"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "Romanian"
+msgstr "Rumynça"
+
+msgid "English"
+msgstr "Iňlisçe"
+
+msgid "Turkmen"
+msgstr "Türkmençe"
+
+msgid "Administration"
+msgstr "Dolandyryş"
+
+msgid "Welcome,"
+msgstr "Hoş geldiňiz,"
+
+msgid "View site"
+msgstr "Sahypany görmek"
+
+msgid "Change password"
+msgstr "Paroly üýtgetmek"
+
+msgid "Log out"
+msgstr "Çykmak"
+
+msgid "Recent actions"
+msgstr "Soňky hereketler"
+
+msgid "My actions"
+msgstr "Meniň hereketlerim"
+
+msgid "None available"
+msgstr "Hiç biri"
+
+msgid "Add"
+msgstr "Goşmak"
+
+msgid "Save"
+msgstr "Ýatda saklamak"
+
+msgid "Delete"
+msgstr "Pozmak"
+
+msgid "Home"
+msgstr "Baş sahypa"
+
+msgid "Search"
+msgstr "Gözleg"
+
+msgid "Filter"
+msgstr "Süzgüç"
+
+msgid "Action:"
+msgstr "Hereket:"
+
+msgid "Go"
+msgstr "Git"

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KERVEN — produs</title>
+<link rel="icon" href="assets/icons/kerven-cart.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header class="hdr">
+ <div class="wrap hdr-in">
+  <button class="burger" id="burger" data-icon="menu" aria-label="Meniu"></button>
+  <a class="logo" href="index.html" aria-label="KERVEN"><img src="assets/logo.svg" alt="KERVEN"></a>
+  <form class="search" role="search" onsubmit="return false">
+    <label class="sr-only" for="q" data-i18n="search">Caută</label>
+    <input id="q" type="search" autocomplete="off" placeholder="Caută produse, mărci sau categorii" data-i18n-ph="ph">
+    <button type="submit" class="search-btn" aria-label="Caută" data-icon="search"></button>
+  </form>
+  <nav class="user-nav">
+    <button class="topbtn" id="accBtn" data-icon="account"><span id="accName" data-i18n="account">Contul meu</span><i data-icon="chevron-down"></i></button>
+    <button class="topbtn" id="favBtn" data-icon="heart"><span data-i18n="fav">Favorite</span></button>
+    <button class="topbtn" id="cartBtn" data-icon="cart"><span data-i18n="cart">Coșul meu</span></button>
+    <div class="lang" role="group" aria-label="Limba">
+      <button data-lang="ro" class="on">RO</button><button data-lang="en">EN</button>
+    </div>
+  </nav>
+ </div>
+</header>
+
+<div class="catbar">
+ <div class="wrap catbar-in">
+  <a class="produse" href="index.html" data-icon="menu"><span data-i18n="products">Produse</span></a>
+  <button class="catlink" data-icon="tag"><span data-i18n="deals">Reduceri</span></button>
+  <button class="catlink collapsible"><span>KERVEN Plus</span></button>
+  <button class="catlink collapsible"><span data-i18n="cardK">Card KERVEN</span></button>
+  <button class="catlink collapsible"><span data-i18n="openbox">Resigilate</span></button>
+  <span class="spacer"></span>
+  <button class="catlink" data-icon="help"><span data-i18n="help">Ajutor</span></button>
+  <button class="sell"><span data-i18n="sell">Vinde pe KERVEN</span></button>
+ </div>
+</div>
+
+<main class="wrap pdp" id="pdp"><!-- rendered by product.js --></main>
+
+<footer class="ftr"><p>© <span id="year"></span> KERVEN</p></footer>
+
+<div class="drawer" id="drawer" hidden>
+  <div class="drawer-back" id="drawerOverlay"></div>
+  <nav class="drawer-panel" aria-label="Categorii">
+    <div class="drawer-head">
+      <button id="drawerClose" data-icon="close" aria-label="Închide"></button>
+      <img src="assets/logo.svg" class="drawer-logo" alt="KERVEN">
+    </div>
+    <div class="drawer-body" id="drawerBody"></div>
+  </nav>
+</div>
+
+<script src="js/icons.js"></script>
+<script src="js/categories.js"></script>
+<script src="js/products.js"></script>
+<script src="js/photos.js"></script>
+<script src="js/store.js"></script>
+<script src="js/data.js"></script>
+<script src="js/product.js"></script>
+<script src="js/cart.js"></script>
+</body>
+</html>
