@@ -1,8 +1,8 @@
 # SASPS – Milestone 1 (Week 8)
 
 **Team Members:**
-Choganov Gurban 	MTI2	gurban.choganov@stud.fils.upb.ro	   159057
-Amanova Ogulnyaz 	MTI2	ogulnyaz.amanova@stud.fils.upb.ro	159216
+- Choganov Gurban 	MTI2	gurban.choganov@stud.fils.upb.ro	   159057
+- Amanova Ogulnyaz 	MTI2	ogulnyaz.amanova@stud.fils.upb.ro	159216
 
 ---
 
